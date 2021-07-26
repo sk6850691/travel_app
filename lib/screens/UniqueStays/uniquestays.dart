@@ -5,7 +5,7 @@ import 'package:travel_app/screens/resorts.dart';
 
 import 'package:travel_app/screens/villas.dart';
 
-import 'camps.dart';
+import 'camps/camps.dart';
 import 'homestays.dart';
 class UniqueStays extends StatefulWidget {
   const UniqueStays({Key key}) : super(key: key);

@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'package:table_calendar/table_calendar.dart';
 import 'package:travel_app/models/campmodel.dart';
 import 'package:travel_app/providers/userprovider.dart';
-import 'package:travel_app/screens/CampCartScreen.dart';
+import 'package:travel_app/screens/camps/CampCartScreen.dart';
 class CampBookingPage extends StatefulWidget {
 
   final String description;
